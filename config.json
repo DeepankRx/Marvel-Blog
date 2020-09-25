@@ -1,0 +1,26 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/deepank4144",
+    "tw_url":"https://twitter.com/RxDeepank",
+    "gh_url": "https://github.com/DeepankRx",
+    "ig_url": "https://instagram.com/deepank_rx",
+    "sc_url": "https://snapchat.com/deepank_rx",
+    "blog_name": "Marvel Wikipedia",
+    "tag_line": "Know something you dont know about your favourite marvel charachter",
+    "gmail-user":"",
+    "gmail-password":"",
+    "about_text": "Hi my name is Deepank and I am the Admin of this Blog . Here I post articles on history,origin.ability,disability,powers of Marvel Characters.",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"",
+    "admin_password": "",
+    "upload_location":"C:\\Users\\pc\\PycharmProjects\\drx\\hacka\\static\\img"
+
+
+  }
+
+}
